@@ -827,6 +827,7 @@ a:hover {
 .about-mf .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
+  border-radius: 8px;
 }
 
 .about-mf .about-img {
@@ -1006,7 +1007,7 @@ a:hover {
 }
 
 .work-box{
-  border-radius: 8px 8px 8px 8px;
+  border-radius: 8px 8px 8px 8  px;
 }
 
 .portfolio-details .portfolio-details-slider img {
